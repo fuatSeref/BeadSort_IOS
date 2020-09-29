@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 37e32fe43ac60074ea83fb0f37d77422
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Baloo Tammudu 2
+  fontNames:
+  - Baloo Tammudu 2
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 276c51721bda6a64389cc53772420cc9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
